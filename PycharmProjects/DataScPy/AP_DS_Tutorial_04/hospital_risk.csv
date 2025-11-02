@@ -1,0 +1,9 @@
+City,Department,Age,DaysAdmitted,DailyFee,Satisfaction,Readmitted,TotalCost,AgeGroup,HighCost,SatisfactionLevel,RiskScore,RiskCategory,CostRank
+Annaba,Orthopedics,70,6,160,3.5,1,960,Senior,No,Poor,42.9,Medium,6
+Annaba,Neurology,60,8,300,3.8,1,2400,Senior,No,Poor,39.8,Low,2
+Oran,Neurology,55,9,290,3.9,1,2610,Senior,No,Poor,38.400000000000006,Low,1
+Alger,Cardiology,50,7,220,4.0,0,1540,Middle,No,Poor,35.8,Low,3
+Alger,Cardiology,45,5,200,4.5,0,1000,Middle,No,Poor,32.0,Low,5
+Oran,Neurology,40,4,280,4.1,1,1120,Middle,No,Poor,31.299999999999997,Low,4
+Oran,Orthopedics,30,3,150,4.2,0,450,Middle,No,Poor,27.599999999999998,Low,7
+Alger,Cardiology,35,2,210,4.7,0,420,Middle,No,Poor,27.2,Low,8
