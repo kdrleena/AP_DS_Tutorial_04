@@ -1,9 +1,9 @@
 # Tutorial 04 - Essential Python Libraries
 
 ## Student Information
-- **Course:** IA2 - AP_DS - 2025/2026
-- **Student:** [Your Name]
-- **Submission Date:** [Today's Date]
+- **Course:** IA2 - Python_DS - 2025/2026
+- **Student:** [khadraoui lina]
+- **Submission Date:** [02-11-25]
 
 ## Project Description
 This project contains solutions for Tutorial 04, covering data analysis exercises using:
